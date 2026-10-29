@@ -1,0 +1,24 @@
+{
+ "name": "Aesthetic Studio",
+ "short_name": "Aesthetic",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#FBF7F8",
+ "theme_color": "#A63D63",
+ "lang": "ru",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
